@@ -1,6 +1,5 @@
 package rasvhw.reintroduced.block;
 
-import net.minecraft.client.sound.block.BlockSound;
 import net.minecraft.client.sound.block.BlockSounds;
 import net.minecraft.core.block.Block;
 import net.minecraft.core.block.material.Material;
