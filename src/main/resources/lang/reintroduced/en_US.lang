@@ -1,0 +1,12 @@
+tile.reintroduced.netherreactor.name=Nether Reactor Core
+tile.reintroduced.netherreactor.desc=Portable Nether
+tile.reintroduced.activatednetherreactor.name=Activated Nether Reactor Core
+tile.reintroduced.activatednetherreactor.desc=Still running!
+tile.reintroduced.finishednetherreactor.name=Finished Nether Reactor Core
+tile.reintroduced.finishednetherreactor.desc=Maybe make a new one?
+tile.reintroduced.glowingobsidian.name=Glowing Obsidian
+tile.reintroduced.glowingobsidian.desc=obsidian but glow lol
+tile.reintroduced.glowingobsidiantiles.name=Glowing Obsidian Tiles
+tile.reintroduced.glowingobsidiantiles.desc=Texture from @beat_your_rice
+tile.reintroduced.glowingobsidianbricks.name=Glowing Obsidian Bricks
+tile.reintroduced.glowingobsidianbricks.desc=Texture from @mortalkombatfiend

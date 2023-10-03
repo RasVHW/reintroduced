@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "examplemod",
+  "id": "reintroduced",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This mod aims to help new BTA modders.",
+  "name": "ReIntroduced",
+  "description": "This mod aims to introduce some suggestions I find didn't get introduced in a way I wanted, or to re-introduce 'old' features from different versions.",
   "authors": [
-    "Turnip Labs"
+    "RasVHW"
   ],
   "contact": {
     "homepage": "",
@@ -18,11 +18,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-        "turniplabs.examplemod.ExampleMod"
+      "rasvhw.reintroduced.ReIntroduced"
     ]
   },
   "mixins": [
-      "examplemod.mixins.json"
+    "reintroduced.mixins.json"
   ],
 
   "depends": {
